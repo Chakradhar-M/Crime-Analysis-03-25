@@ -16,7 +16,7 @@ Crime data plays a crucial role in understanding safety challenges within a comm
 ✅ Understanding **crime trends** over time   
 ✅ Comparing **violent vs. property crimes**   
 ✅ Analyzing **high-crime neighborhoods**   
-✅ Assessing the impact of **firearm-related incidents**   
+✅ Assessing the impact of **weapons**   
 
 The **goal** is to present crime insights through **interactive visualizations**, enabling better strategies for crime prevention and public safety.  
 
