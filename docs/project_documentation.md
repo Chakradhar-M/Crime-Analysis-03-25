@@ -1,46 +1,41 @@
-# Crime Analysis
-### Date: March 2025
----
+<h1 align="center">🔍 Washington D.C. Crime Analysis</h1>
 
-### Tools Used
-- Power BI
-- Excel
-- Figma
+<div style="display: flex; justify-content: space-between; padding: 10px; background-color: #f4f4f4; border-radius: 8px;">
+    <h3>📅 Date: March 2025</h3>
+    <h3>🛠️ Tools Used: Power BI, Excel, Figma</h3>
+</div>
 
 ---
 
-### Context
-Washington, D.C. has long focused on crime prevention and community safety. This dataset provides detailed insights into crime patterns, allowing analysts to explore crime frequency, geographical hotspots, trends over time, and crime severity. Participants in this challenge will leverage Power BI or other BI tools to visualize crime trends and derive actionable insights for law enforcement, policymakers, and the general public.
+## 📌 Background & Objectives  
 
-Your challenge is to create an interactive dashboard that helps answer key questions such as:
+Crime data plays a crucial role in understanding safety challenges within a community. This project explores crime trends in Washington, D.C., leveraging **Power BI** to analyze crime **frequency, locations, and severity**. By identifying patterns in offenses, law enforcement and policymakers can make **data-driven decisions** to enhance community safety.  
 
-- What are the most common crimes committed in each district?
-- How does crime vary by time of day and location?
-- Are there any noticeable trends in violent vs. property crimes?
-- Which neighborhoods have the highest crime rates, and what types of crimes are most prevalent?
-- What is the impact of different crime methods (e.g., firearm-related incidents)?
+### 🔹 Key Focus Areas:  
+✅ Identifying **common crimes** and their locations   
+✅ Understanding **crime trends** over time   
+✅ Comparing **violent vs. property crimes**   
+✅ Analyzing **high-crime neighborhoods**   
+✅ Assessing the impact of **firearm-related incidents**   
 
----
-
-## Objectives
-The primary goal of this analysis is to provide a clear and interactive crime dashboard that enables decision-makers to:
-- Identify crime trends over time.
-- Locate crime hotspots for better resource allocation.
-- Understand crime severity and its impact on different neighborhoods.
-- Assess the effectiveness of law enforcement in different districts.
-- Provide the public with transparent crime statistics for awareness and safety.
+The **goal** is to present crime insights through **interactive visualizations**, enabling better strategies for crime prevention and public safety.  
 
 ---
 
-## Quick Access Links
-| **Resource**                 | **Link**  |
-|------------------------------|----------|
-| 📊 **Data Source**           | [Click Here](#) |
-| 📈 **Power BI Live Report**  | [Click Here](#) |
-| 🎥 **YouTube Presentation**  | [Click Here](#) |
-| 🔗 **LinkedIn Post**         | [Click Here](#) |
+## Quick Access Links  
+
+| Resource | Link |
+|----------|------|
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/database.png?raw=true" width="15"> **Data Source** | <a href="https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/onyx-data-march-2025" target="_blank">Click Here</a> |
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/power-bi.png?raw=true" width="19"> **Power BI Live Report** | <a href="https://app.powerbi.com/view?r=eyJrIjoiMWIyY2EyMTgtOTcxMi00NzRmLWE2MzMtOTA5ZWVmZjRjMzI3IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9" target="_blank">Click Here</a> |
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/youtube.png?raw=true" width="15"> **YouTube Presentation** | <a href="#" target="_blank">Click Here</a> |
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/linkedin.png?raw=true" width="18"> **LinkedIn Post** | <a href="https://www.linkedin.com/posts/chakradhar-mantena_crime-analysis-dashboard-activity-7310133766541164544-8A8h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9y4SkBuDMCUOFBEF1QAO3K3-8MrRRtZZk" target="_blank">Click Here</a> |
 
 ---
+
+
+---
+
 
 ## Sample Data (Scrollable Table)
 ```html
