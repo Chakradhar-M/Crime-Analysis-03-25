@@ -58,19 +58,13 @@ The **goal** is to present crime insights through **interactive visualizations**
 
 ---
 
+### 📊 Key Performance Indicators (KPIs)
 
+#### 1️⃣ Total Crimes Reported  
+Represents the **total number of crimes** committed within a specific time period. This metric helps in understanding the crime volume and overall safety trends in a given area.  
 
-## KPIs Used
-- **Total Crimes Reported** – Number of crimes committed in a given time period.
-- **Crimes by Time of Day** – Distribution of crimes by shift (Midnight, Day, Evening).
-- **Top 5 Crime Types** – Most frequently occurring offenses.
-- **Crime Severity Index** – Weighting crimes based on UCR ranking to assess overall risk.
-- **Crime by Neighborhood** – Number of reported crimes per neighborhood cluster.
-- **Hotspot Analysis** – Geographical visualization of crime density.
-- **Weapon-Related Crimes** – Percentage of crimes involving firearms.
-- **Time to Resolution** – Average duration from crime occurrence to report filing.
-- **Trends Over Time** – Year-over-year or month-over-month crime trends.
-- **Crime Rate by Police District** – Total crimes per district to assess law enforcement efficiency.
+#### 2️⃣ Time to Resolution (Hours)  
+Measures the **average duration** between the occurrence of a crime and its resolution. This includes the time taken for investigation, reporting, and case closure, providing insights into law enforcement efficiency.  
 
 ---
 
