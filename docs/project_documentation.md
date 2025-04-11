@@ -1,24 +1,33 @@
-<h1 align="center">🔍 Washington D.C. Crime Analysis</h1>
+<h1 align="center">🔍 Washington D.C. Crime Analysis </h1>
 
 <div style="display: flex; justify-content: space-between; padding: 10px; background-color: #f4f4f4; border-radius: 8px;">
     <h4>📅 Date: March 2025</h4>
-    <h4>🛠️ Tools Used: Power BI, Excel, Figma</h4>
+    <h4>🛠️ Tools Used: Power BI, Excel</h4>
+    <h4>🏷️ Domain: Public Safety & Urban Analytics</h4>
 </div>
+
+--- 
+
+### 📌 Background  
+
+Understanding crime patterns is essential for making cities safer and helping law enforcement and local governments respond more effectively. Urban areas like Washington, D.C. often face complex safety challenges due to high population density, diverse neighborhoods, and varying crime types. With advancements in data collection and analytics, it's now possible to dig deeper into these patterns to support better strategies for crime prevention.
+
+In this project, I analyzed Washington D.C.'s crime data to uncover trends related to crime frequency, location, timing, and severity. The aim was to create a clear, interactive dashboard that helps decision-makers and the community gain useful insights. This reflects my focus on using data not just to present information, but to drive real understanding and action.
 
 ---
 
-### 📌 Background & Objectives  
+### 🎯 Objective  
 
-Crime data plays a crucial role in understanding safety challenges within a community. This project explores crime trends in Washington, D.C., leveraging **Power BI** to analyze crime **frequency, locations, and severity**. By identifying patterns in offenses, law enforcement and policymakers can make **data-driven decisions** to enhance community safety.  
+The objective of this project is to design a comprehensive and interactive Power BI dashboard that enables stakeholders to:  
+✔️ Identify the most common crimes in each district and neighborhood  
+✔️ Understand how crime varies by time of day and location  
+✔️ Compare patterns in violent versus property crimes  
+✔️ Highlight firearm-related incidents and their distribution  
+✔️ Track trends over time to measure progress and pinpoint emerging issues  
 
-#### 🔹 Key Focus Areas:  
-✅ Identifying **common crimes** and their locations   
-✅ Understanding **crime trends** over time   
-✅ Comparing **violent vs. property crimes**   
-✅ Analyzing **high-crime neighborhoods**   
-✅ Assessing the impact of **weapons**   
+This dashboard serves as a powerful decision-support tool for city officials, police departments, and the wider community, helping them take timely and targeted actions to improve public safety.
 
-The **goal** is to present crime insights through **interactive visualizations**, enabling better strategies for crime prevention and public safety.  
+---
 
 ---
 
