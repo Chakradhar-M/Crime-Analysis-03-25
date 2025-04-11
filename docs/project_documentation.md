@@ -62,6 +62,7 @@ This dashboard serves as a powerful decision-support tool for city officials, po
 </table>
 
 
+🔗 Check out the **Data Dictionary** here 👉 (#)
 ---
 
 ### 📊 Key Performance Indicators (KPIs)
