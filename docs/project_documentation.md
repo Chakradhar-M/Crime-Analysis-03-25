@@ -62,7 +62,7 @@ This dashboard serves as a powerful decision-support tool for city officials, po
 </table>
 
 
-🔗 Check out the **Data Dictionary** here 👉 (#)
+🔗 Check out the **Data Dictionary** here 👉 (https://github.com/Chakradhar-M/Crime-Analysis-03-25/blob/main/dataset/data_dictionary.md)
 
 ---
 
