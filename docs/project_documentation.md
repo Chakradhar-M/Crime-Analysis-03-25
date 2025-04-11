@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between; padding: 10px; background-color: #f4f4f4; border-radius: 8px;">
     <h4>📅 Date: March 2025</h4>
-    <h4>🛠️ Tools Used: Power BI, Excel</h4>
+    <h4>🛠️ Tools Used: Power BI, Excel, Figma</h4>
     <h4>🏷️ Domain: Public Safety & Urban Analytics</h4>
 </div>
 
