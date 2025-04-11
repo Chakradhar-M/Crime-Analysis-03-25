@@ -29,19 +29,17 @@ This dashboard serves as a powerful decision-support tool for city officials, po
 
 ---
 
----
 
-### 🔗 Quick Access Links  
+###  📂 Essential Project Links  
 
-| Resource | Link |
-|----------|------|
-| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/database.png?raw=true" width="20" style="vertical-align:middle;"> **Data Source** | [Click Here](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/onyx-data-march-2025) |
-| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/power-bi.png?raw=true" width="22" style="vertical-align:middle;"> **Power BI Live Report** | [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMWIyY2EyMTgtOTcxMi00NzRmLWE2MzMtOTA5ZWVmZjRjMzI3IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9) |
-| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/youtube.png?raw=true" width="20" style="vertical-align:middle;"> **Project Presentation** | [Click Here](#) |
-| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/linkedin.png?raw=true" width="22" style="vertical-align:middle;"> **LinkedIn Post** | [Click Here](https://www.linkedin.com/posts/chakradhar-mantena_crime-analysis-dashboard-activity-7310133766541164544-8A8h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9y4SkBuDMCUOFBEF1QAO3K3-8MrRRtZZk) |
+| 🧭 Resource | 🔗 Access |
+|------------|----------|
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/database.png?raw=true" width="20" style="vertical-align:middle;"> **Data Source** | 👉 [Click to View Data Source](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/onyx-data-march-2025) |
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/power-bi.png?raw=true" width="22" style="vertical-align:middle;"> **Power BI Live Report** | 📊 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWIyY2EyMTgtOTcxMi00NzRmLWE2MzMtOTA5ZWVmZjRjMzI3IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9) |
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/youtube.png?raw=true" width="20" style="vertical-align:middle;"> **Project Presentation** | 🎬 [Watch Presentation](#) |
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/linkedin.png?raw=true" width="22" style="vertical-align:middle;"> **LinkedIn Post** | 🔗 [Read on LinkedIn](https://www.linkedin.com/posts/chakradhar-mantena_crime-analysis-dashboard-activity-7310133766541164544-8A8h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9y4SkBuDMCUOFBEF1QAO3K3-8MrRRtZZk) |
 
-📌 **Note:** Open links in a new tab.  
-
+📌 **Tip:** Right-click or Ctrl + Click to open links in a new tab.
 
 
 ---
