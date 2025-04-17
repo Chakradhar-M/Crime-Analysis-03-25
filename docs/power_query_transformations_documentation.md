@@ -4,7 +4,7 @@
    The data is loaded from an Excel file (`crime_data.xlsx`).
 
    ```powerquery
-   = Excel.Workbook(File.Contents("C:\Users\c_akr\Downloads\crime_data.xlsx"), null, true)
+   = Excel.Workbook(File.Contents("C:\Users\PowerBI\crime_data.xlsx"), null, true)
    ```
 
 2. **Promoting Headers**:  
